@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/4/trunk/ud_etl/UD_ETL_code/db
+END
+etl_task_instance.sql
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/trunk/ud_etl/UD_ETL_code/db/etl_task_instance.sql
+END
+etl_stream.sql
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/trunk/ud_etl/UD_ETL_code/db/etl_stream.sql
+END
+etl_run_env.sql
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/trunk/ud_etl/UD_ETL_code/db/etl_run_env.sql
+END
+etl_task_info.sql
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/4/trunk/ud_etl/UD_ETL_code/db/etl_task_info.sql
+END
+etl_tool.sql
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/trunk/ud_etl/UD_ETL_code/db/etl_tool.sql
+END

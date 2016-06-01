@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/4/trunk/ud_etl/UD_ETL_code/log
+END
+supervisord.log
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/trunk/ud_etl/UD_ETL_code/log/supervisord.log
+END
+control.log
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/trunk/ud_etl/UD_ETL_code/log/control.log
+END
+control_access.log
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/trunk/ud_etl/UD_ETL_code/log/control_access.log
+END

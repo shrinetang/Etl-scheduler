@@ -1,0 +1,234 @@
+2014-04-21 12:21:12 [25790] [INFO] Handling signal: term
+2014-04-21 12:21:12 [25795] [INFO] Worker exiting (pid: 25795)
+2014-04-21 12:21:13 [25790] [INFO] Shutting down: Master
+2014-04-21 12:21:15 [27227] [INFO] Starting gunicorn 18.0
+2014-04-21 12:21:15 [27227] [INFO] Listening at: http://0.0.0.0:8962 (27227)
+2014-04-21 12:21:15 [27227] [INFO] Using worker: sync
+2014-04-21 12:21:15 [27232] [INFO] Booting worker with pid: 27232
+2014-04-21 12:31:25 [27227] [INFO] Handling signal: term
+2014-04-21 12:31:25 [27232] [INFO] Worker exiting (pid: 27232)
+2014-04-21 12:31:25 [27227] [INFO] Shutting down: Master
+2014-04-21 12:31:27 [11313] [INFO] Starting gunicorn 18.0
+2014-04-21 12:31:27 [11313] [INFO] Listening at: http://0.0.0.0:8962 (11313)
+2014-04-21 12:31:27 [11313] [INFO] Using worker: sync
+2014-04-21 12:31:27 [11324] [INFO] Booting worker with pid: 11324
+Traceback (most recent call last):
+  File "/home/work/ud_etl_scheduler/lib/python2.7/site-packages/web/application.py", line 239, in process
+    return self.handle()
+  File "/home/work/ud_etl_scheduler/lib/python2.7/site-packages/web/application.py", line 230, in handle
+    return self._delegate(fn, self.fvars, args)
+  File "/home/work/ud_etl_scheduler/lib/python2.7/site-packages/web/application.py", line 420, in _delegate
+    return handle_class(cls)
+  File "/home/work/ud_etl_scheduler/lib/python2.7/site-packages/web/application.py", line 396, in handle_class
+    return tocall(*args)
+  File "/home/work/ud_etl/app/control/stream.py", line 246, in GET
+    (ret, depend_task_id_list) = self._getDependIdList(msg, depend_task)
+  File "/home/work/ud_etl/app/control/stream.py", line 270, in _getDependIdList
+    if len(depend_task_list) == len(depend_task_id_list):
+NameError: global name 'depend_task_id_list' is not defined
+
+2014-04-21 12:32:27 [11313] [INFO] Handling signal: term
+2014-04-21 12:32:27 [11324] [INFO] Worker exiting (pid: 11324)
+2014-04-21 12:32:27 [11313] [INFO] Shutting down: Master
+2014-04-21 12:32:29 [12773] [INFO] Starting gunicorn 18.0
+2014-04-21 12:32:29 [12773] [INFO] Listening at: http://0.0.0.0:8962 (12773)
+2014-04-21 12:32:29 [12773] [INFO] Using worker: sync
+2014-04-21 12:32:29 [12778] [INFO] Booting worker with pid: 12778
+2014-04-21 12:34:43 [12773] [INFO] Handling signal: term
+2014-04-21 12:34:43 [12778] [INFO] Worker exiting (pid: 12778)
+2014-04-21 12:34:43 [12773] [INFO] Shutting down: Master
+2014-04-21 12:34:45 [15938] [INFO] Starting gunicorn 18.0
+2014-04-21 12:34:45 [15938] [INFO] Listening at: http://0.0.0.0:8962 (15938)
+2014-04-21 12:34:45 [15938] [INFO] Using worker: sync
+2014-04-21 12:34:45 [15945] [INFO] Booting worker with pid: 15945
+2014-04-21 12:39:15 [15938] [INFO] Handling signal: term
+2014-04-21 12:39:15 [15945] [INFO] Worker exiting (pid: 15945)
+2014-04-21 12:39:15 [15938] [INFO] Shutting down: Master
+2014-04-21 12:39:17 [23128] [INFO] Starting gunicorn 18.0
+2014-04-21 12:39:17 [23128] [INFO] Listening at: http://0.0.0.0:8962 (23128)
+2014-04-21 12:39:17 [23128] [INFO] Using worker: sync
+2014-04-21 12:39:17 [23133] [INFO] Booting worker with pid: 23133
+2014-04-21 12:42:53 [23128] [INFO] Handling signal: term
+2014-04-21 12:42:53 [23133] [INFO] Worker exiting (pid: 23133)
+2014-04-21 12:42:53 [23128] [INFO] Shutting down: Master
+2014-04-21 12:42:56 [28821] [INFO] Starting gunicorn 18.0
+2014-04-21 12:42:56 [28821] [INFO] Listening at: http://0.0.0.0:8962 (28821)
+2014-04-21 12:42:56 [28821] [INFO] Using worker: sync
+2014-04-21 12:42:56 [28826] [INFO] Booting worker with pid: 28826
+2014-04-21 13:43:02 [28821] [INFO] Handling signal: term
+2014-04-21 13:43:02 [28826] [INFO] Worker exiting (pid: 28826)
+2014-04-21 13:43:02 [28821] [INFO] Shutting down: Master
+2014-04-21 13:43:04 [2572] [INFO] Starting gunicorn 18.0
+2014-04-21 13:43:04 [2572] [INFO] Listening at: http://0.0.0.0:8962 (2572)
+2014-04-21 13:43:04 [2572] [INFO] Using worker: sync
+2014-04-21 13:43:04 [2577] [INFO] Booting worker with pid: 2577
+2014-04-21 15:10:04 [2572] [INFO] Handling signal: term
+2014-04-21 15:10:04 [2577] [INFO] Worker exiting (pid: 2577)
+2014-04-21 15:10:04 [2572] [INFO] Shutting down: Master
+2014-04-21 15:10:06 [22898] [INFO] Starting gunicorn 18.0
+2014-04-21 15:10:06 [22898] [INFO] Listening at: http://0.0.0.0:8962 (22898)
+2014-04-21 15:10:06 [22898] [INFO] Using worker: sync
+2014-04-21 15:10:06 [22904] [INFO] Booting worker with pid: 22904
+2014-04-21 15:18:18 [22898] [INFO] Handling signal: term
+2014-04-21 15:18:18 [22904] [INFO] Worker exiting (pid: 22904)
+2014-04-21 15:18:18 [22898] [INFO] Shutting down: Master
+2014-04-21 15:18:20 [5469] [INFO] Starting gunicorn 18.0
+2014-04-21 15:18:20 [5469] [INFO] Listening at: http://0.0.0.0:8962 (5469)
+2014-04-21 15:18:20 [5469] [INFO] Using worker: sync
+2014-04-21 15:18:20 [5474] [INFO] Booting worker with pid: 5474
+Traceback (most recent call last):
+  File "/home/work/ud_etl_scheduler/lib/python2.7/site-packages/web/application.py", line 239, in process
+    return self.handle()
+  File "/home/work/ud_etl_scheduler/lib/python2.7/site-packages/web/application.py", line 230, in handle
+    return self._delegate(fn, self.fvars, args)
+  File "/home/work/ud_etl_scheduler/lib/python2.7/site-packages/web/application.py", line 420, in _delegate
+    return handle_class(cls)
+  File "/home/work/ud_etl_scheduler/lib/python2.7/site-packages/web/application.py", line 396, in handle_class
+    return tocall(*args)
+  File "/home/work/ud_etl/app/control/task.py", line 395, in POST
+    (ret, msg) = taskBase().checkPrivileg(task_name, cur_task_version, operator)
+  File "/home/work/ud_etl/app/control/task.py", line 26, in checkPrivileg
+    if len(taskName) == 0 or len(taskVersion) == 0 or len(operator) == 0:
+TypeError: object of type 'int' has no len()
+
+2014-04-21 15:19:04 [5469] [INFO] Handling signal: term
+2014-04-21 15:19:04 [5474] [INFO] Worker exiting (pid: 5474)
+2014-04-21 15:19:04 [5469] [INFO] Shutting down: Master
+2014-04-21 15:19:07 [6511] [INFO] Starting gunicorn 18.0
+2014-04-21 15:19:07 [6511] [INFO] Listening at: http://0.0.0.0:8962 (6511)
+2014-04-21 15:19:07 [6511] [INFO] Using worker: sync
+2014-04-21 15:19:07 [6516] [INFO] Booting worker with pid: 6516
+2014-04-21 16:54:44 [6511] [INFO] Handling signal: term
+2014-04-21 16:54:44 [6516] [INFO] Worker exiting (pid: 6516)
+2014-04-21 16:54:44 [6511] [INFO] Shutting down: Master
+2014-04-21 16:54:46 [12280] [INFO] Starting gunicorn 18.0
+2014-04-21 16:54:46 [12280] [INFO] Listening at: http://0.0.0.0:8962 (12280)
+2014-04-21 16:54:46 [12280] [INFO] Using worker: sync
+2014-04-21 16:54:47 [12285] [INFO] Booting worker with pid: 12285
+Traceback (most recent call last):
+  File "/home/work/ud_etl_scheduler/lib/python2.7/site-packages/web/application.py", line 239, in process
+    return self.handle()
+  File "/home/work/ud_etl_scheduler/lib/python2.7/site-packages/web/application.py", line 230, in handle
+    return self._delegate(fn, self.fvars, args)
+  File "/home/work/ud_etl_scheduler/lib/python2.7/site-packages/web/application.py", line 420, in _delegate
+    return handle_class(cls)
+  File "/home/work/ud_etl_scheduler/lib/python2.7/site-packages/web/application.py", line 396, in handle_class
+    return tocall(*args)
+  File "/home/work/ud_etl/app/control/task.py", line 410, in POST
+    return sendResponse('success', msg)
+  File "/home/work/ud_etl/app/control/utils/ud_base.py", line 27, in sendResponse
+    return json.dumps(tempDict, indent=2)
+  File "/home/work/ud_etl_scheduler/lib/python2.7/json/__init__.py", line 250, in dumps
+    sort_keys=sort_keys, **kw).encode(obj)
+  File "/home/work/ud_etl_scheduler/lib/python2.7/json/encoder.py", line 209, in encode
+    chunks = list(chunks)
+  File "/home/work/ud_etl_scheduler/lib/python2.7/json/encoder.py", line 434, in _iterencode
+    for chunk in _iterencode_dict(o, _current_indent_level):
+  File "/home/work/ud_etl_scheduler/lib/python2.7/json/encoder.py", line 408, in _iterencode_dict
+    for chunk in chunks:
+  File "/home/work/ud_etl_scheduler/lib/python2.7/json/encoder.py", line 332, in _iterencode_list
+    for chunk in chunks:
+  File "/home/work/ud_etl_scheduler/lib/python2.7/json/encoder.py", line 408, in _iterencode_dict
+    for chunk in chunks:
+  File "/home/work/ud_etl_scheduler/lib/python2.7/json/encoder.py", line 442, in _iterencode
+    o = _default(o)
+  File "/home/work/ud_etl_scheduler/lib/python2.7/json/encoder.py", line 184, in default
+    raise TypeError(repr(o) + " is not JSON serializable")
+TypeError: datetime.datetime(2014, 4, 20, 17, 6, 41) is not JSON serializable
+
+2014-04-21 16:58:26 [12280] [INFO] Handling signal: term
+2014-04-21 16:58:26 [12285] [INFO] Worker exiting (pid: 12285)
+2014-04-21 16:58:26 [12280] [INFO] Shutting down: Master
+2014-04-21 16:58:28 [17869] [INFO] Starting gunicorn 18.0
+2014-04-21 16:58:28 [17869] [INFO] Listening at: http://0.0.0.0:8962 (17869)
+2014-04-21 16:58:28 [17869] [INFO] Using worker: sync
+2014-04-21 16:58:28 [17874] [INFO] Booting worker with pid: 17874
+2014-04-21 17:27:58 [17869] [INFO] Handling signal: term
+2014-04-21 17:27:58 [17874] [INFO] Worker exiting (pid: 17874)
+2014-04-21 17:27:58 [17869] [INFO] Shutting down: Master
+2014-04-21 17:28:00 [8175] [INFO] Starting gunicorn 18.0
+2014-04-21 17:28:00 [8175] [INFO] Listening at: http://0.0.0.0:8962 (8175)
+2014-04-21 17:28:00 [8175] [INFO] Using worker: sync
+2014-04-21 17:28:00 [8180] [INFO] Booting worker with pid: 8180
+2014-04-21 17:30:21 [8175] [INFO] Handling signal: term
+2014-04-21 17:30:21 [8180] [INFO] Worker exiting (pid: 8180)
+2014-04-21 17:30:21 [8175] [INFO] Shutting down: Master
+2014-04-21 17:30:23 [11441] [INFO] Starting gunicorn 18.0
+2014-04-21 17:30:23 [11441] [INFO] Listening at: http://0.0.0.0:8962 (11441)
+2014-04-21 17:30:23 [11441] [INFO] Using worker: sync
+2014-04-21 17:30:23 [11447] [INFO] Booting worker with pid: 11447
+2014-04-21 17:32:36 [11441] [INFO] Handling signal: term
+2014-04-21 17:32:36 [11447] [INFO] Worker exiting (pid: 11447)
+2014-04-21 17:32:36 [11441] [INFO] Shutting down: Master
+2014-04-21 17:32:38 [15329] [INFO] Starting gunicorn 18.0
+2014-04-21 17:32:38 [15329] [INFO] Listening at: http://0.0.0.0:8962 (15329)
+2014-04-21 17:32:38 [15329] [INFO] Using worker: sync
+2014-04-21 17:32:38 [15334] [INFO] Booting worker with pid: 15334
+2014-04-21 17:38:17 [15329] [INFO] Handling signal: term
+2014-04-21 17:38:17 [15334] [INFO] Worker exiting (pid: 15334)
+2014-04-21 17:38:17 [15329] [INFO] Shutting down: Master
+2014-04-21 17:38:19 [24793] [INFO] Starting gunicorn 18.0
+2014-04-21 17:38:19 [24793] [INFO] Listening at: http://0.0.0.0:8962 (24793)
+2014-04-21 17:38:19 [24793] [INFO] Using worker: sync
+2014-04-21 17:38:19 [24798] [INFO] Booting worker with pid: 24798
+2014-04-21 17:47:35 [24793] [INFO] Handling signal: term
+2014-04-21 17:47:35 [24798] [INFO] Worker exiting (pid: 24798)
+2014-04-21 17:47:35 [24793] [INFO] Shutting down: Master
+2014-04-21 17:47:37 [7443] [INFO] Starting gunicorn 18.0
+2014-04-21 17:47:37 [7443] [INFO] Listening at: http://0.0.0.0:8962 (7443)
+2014-04-21 17:47:37 [7443] [INFO] Using worker: sync
+2014-04-21 17:47:37 [7448] [INFO] Booting worker with pid: 7448
+2014-04-21 17:48:24 [7443] [INFO] Handling signal: term
+2014-04-21 17:48:24 [7448] [INFO] Worker exiting (pid: 7448)
+2014-04-21 17:48:24 [7443] [INFO] Shutting down: Master
+2014-04-21 17:48:26 [8388] [INFO] Starting gunicorn 18.0
+2014-04-21 17:48:26 [8388] [INFO] Listening at: http://0.0.0.0:8962 (8388)
+2014-04-21 17:48:26 [8388] [INFO] Using worker: sync
+2014-04-21 17:48:26 [8393] [INFO] Booting worker with pid: 8393
+Traceback (most recent call last):
+  File "/home/work/ud_etl_scheduler/lib/python2.7/site-packages/web/application.py", line 239, in process
+    return self.handle()
+  File "/home/work/ud_etl_scheduler/lib/python2.7/site-packages/web/application.py", line 230, in handle
+    return self._delegate(fn, self.fvars, args)
+  File "/home/work/ud_etl_scheduler/lib/python2.7/site-packages/web/application.py", line 420, in _delegate
+    return handle_class(cls)
+  File "/home/work/ud_etl_scheduler/lib/python2.7/site-packages/web/application.py", line 396, in handle_class
+    return tocall(*args)
+  File "/home/work/ud_etl/app/control/task.py", line 418, in POST
+    if 0     == len(msg): return sendResponse('fail', 'task not exist')
+TypeError: object of type 'NoneType' has no len()
+
+2014-04-21 17:50:38 [8388] [INFO] Handling signal: term
+2014-04-21 17:50:38 [8393] [INFO] Worker exiting (pid: 8393)
+2014-04-21 17:50:38 [8388] [INFO] Shutting down: Master
+2014-04-21 17:50:41 [13108] [INFO] Starting gunicorn 18.0
+2014-04-21 17:50:41 [13108] [INFO] Listening at: http://0.0.0.0:8962 (13108)
+2014-04-21 17:50:41 [13108] [INFO] Using worker: sync
+2014-04-21 17:50:41 [13113] [INFO] Booting worker with pid: 13113
+2014-04-24 17:06:54 [13108] [INFO] Handling signal: term
+2014-04-24 17:06:54 [13113] [INFO] Worker exiting (pid: 13113)
+2014-04-24 17:06:54 [13108] [INFO] Shutting down: Master
+2014-04-24 17:06:56 [5434] [INFO] Starting gunicorn 18.0
+2014-04-24 17:06:56 [5434] [INFO] Listening at: http://0.0.0.0:8962 (5434)
+2014-04-24 17:06:56 [5434] [INFO] Using worker: sync
+2014-04-24 17:06:56 [5448] [INFO] Booting worker with pid: 5448
+Traceback (most recent call last):
+  File "/home/work/ud_etl_scheduler/lib/python2.7/site-packages/web/application.py", line 239, in process
+    return self.handle()
+  File "/home/work/ud_etl_scheduler/lib/python2.7/site-packages/web/application.py", line 230, in handle
+    return self._delegate(fn, self.fvars, args)
+  File "/home/work/ud_etl_scheduler/lib/python2.7/site-packages/web/application.py", line 420, in _delegate
+    return handle_class(cls)
+  File "/home/work/ud_etl_scheduler/lib/python2.7/site-packages/web/application.py", line 396, in handle_class
+    return tocall(*args)
+  File "/home/work/ud_etl/app/control/instance.py", line 63, in GET
+    return sendResponse('success', streamInfo)
+NameError: global name 'streamInfo' is not defined
+
+2014-04-24 17:07:48 [5434] [INFO] Handling signal: term
+2014-04-24 17:07:48 [5448] [INFO] Worker exiting (pid: 5448)
+2014-04-24 17:07:48 [5434] [INFO] Shutting down: Master
+2014-04-24 17:07:50 [6803] [INFO] Starting gunicorn 18.0
+2014-04-24 17:07:50 [6803] [INFO] Listening at: http://0.0.0.0:8962 (6803)
+2014-04-24 17:07:50 [6803] [INFO] Using worker: sync
+2014-04-24 17:07:50 [6808] [INFO] Booting worker with pid: 6808

@@ -1,0 +1,355 @@
+2014-04-11 12:14:26,915 INFO RPC interface 'supervisor' initialized
+2014-04-11 12:14:26,916 INFO RPC interface 'supervisor' initialized
+2014-04-11 12:14:26,916 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2014-04-11 12:14:26,916 INFO daemonizing the supervisord process
+2014-04-11 12:14:26,917 INFO supervisord started with pid 29117
+2014-04-11 12:14:27,920 INFO spawned: 'etl_control' with pid 29135
+2014-04-11 12:14:29,035 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-15 11:49:17,861 INFO stopped: etl_control (exit status 0)
+2014-04-15 11:49:19,866 INFO spawned: 'etl_control' with pid 12800
+2014-04-15 11:49:20,980 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-15 12:39:44,744 INFO stopped: etl_control (exit status 0)
+2014-04-15 12:39:46,746 INFO spawned: 'etl_control' with pid 4009
+2014-04-15 12:39:47,859 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-15 12:46:28,057 INFO stopped: etl_control (exit status 0)
+2014-04-15 12:46:30,059 INFO spawned: 'etl_control' with pid 15325
+2014-04-15 12:46:31,176 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-15 12:54:01,518 INFO stopped: etl_control (exit status 0)
+2014-04-15 12:54:03,519 INFO spawned: 'etl_control' with pid 27054
+2014-04-15 12:54:04,639 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-15 12:54:35,990 INFO stopped: etl_control (exit status 0)
+2014-04-15 12:54:37,993 INFO spawned: 'etl_control' with pid 27915
+2014-04-15 12:54:39,106 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-15 12:59:41,065 INFO stopped: etl_control (exit status 0)
+2014-04-15 12:59:43,069 INFO spawned: 'etl_control' with pid 3699
+2014-04-15 12:59:44,184 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-15 13:01:22,773 INFO stopped: etl_control (exit status 0)
+2014-04-15 13:01:24,776 INFO spawned: 'etl_control' with pid 7713
+2014-04-15 13:01:25,890 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-15 13:05:27,503 INFO stopped: etl_control (exit status 0)
+2014-04-15 13:05:29,506 INFO spawned: 'etl_control' with pid 15084
+2014-04-15 13:05:30,620 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-15 14:53:00,794 INFO stopped: etl_control (exit status 0)
+2014-04-15 14:53:02,799 INFO spawned: 'etl_control' with pid 7388
+2014-04-15 14:53:03,910 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-15 15:11:54,190 INFO stopped: etl_control (exit status 0)
+2014-04-15 15:11:56,192 INFO spawned: 'etl_control' with pid 7630
+2014-04-15 15:11:57,310 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-15 15:31:38,878 INFO stopped: etl_control (exit status 0)
+2014-04-15 15:31:40,882 INFO spawned: 'etl_control' with pid 11799
+2014-04-15 15:31:41,999 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-15 15:37:12,772 INFO stopped: etl_control (exit status 0)
+2014-04-15 15:37:14,775 INFO spawned: 'etl_control' with pid 21170
+2014-04-15 15:37:15,887 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-15 15:38:38,024 INFO stopped: etl_control (exit status 0)
+2014-04-15 15:38:40,026 INFO spawned: 'etl_control' with pid 23829
+2014-04-15 15:38:41,140 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-15 16:47:17,264 INFO stopped: etl_control (exit status 0)
+2014-04-15 16:47:19,267 INFO spawned: 'etl_control' with pid 20982
+2014-04-15 16:47:20,383 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-15 17:09:44,522 INFO stopped: etl_control (exit status 0)
+2014-04-15 17:09:46,525 INFO spawned: 'etl_control' with pid 27805
+2014-04-15 17:09:47,643 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-15 17:11:36,664 INFO stopped: etl_control (exit status 0)
+2014-04-15 17:11:38,666 INFO spawned: 'etl_control' with pid 30935
+2014-04-15 17:11:39,781 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-15 17:15:05,441 INFO stopped: etl_control (exit status 0)
+2014-04-15 17:15:07,443 INFO spawned: 'etl_control' with pid 4317
+2014-04-15 17:15:08,558 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-15 18:05:35,399 INFO stopped: etl_control (exit status 0)
+2014-04-15 18:05:37,402 INFO spawned: 'etl_control' with pid 27098
+2014-04-15 18:05:38,517 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-15 18:08:21,755 INFO stopped: etl_control (exit status 0)
+2014-04-15 18:08:23,759 INFO spawned: 'etl_control' with pid 492
+2014-04-15 18:08:24,870 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-15 18:09:35,102 INFO stopped: etl_control (exit status 0)
+2014-04-15 18:09:37,105 INFO spawned: 'etl_control' with pid 2032
+2014-04-15 18:09:38,216 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-15 18:41:53,879 INFO stopped: etl_control (exit status 0)
+2014-04-15 18:41:55,880 INFO spawned: 'etl_control' with pid 26512
+2014-04-15 18:41:56,995 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-15 18:43:43,427 INFO stopped: etl_control (exit status 0)
+2014-04-15 18:43:45,431 INFO spawned: 'etl_control' with pid 29590
+2014-04-15 18:43:46,544 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-15 18:44:42,205 INFO stopped: etl_control (exit status 0)
+2014-04-15 18:44:44,209 INFO spawned: 'etl_control' with pid 31622
+2014-04-15 18:44:45,323 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-15 18:47:21,335 INFO stopped: etl_control (exit status 0)
+2014-04-15 18:47:23,339 INFO spawned: 'etl_control' with pid 3475
+2014-04-15 18:47:24,454 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-15 19:03:26,869 INFO stopped: etl_control (exit status 0)
+2014-04-15 19:03:28,873 INFO spawned: 'etl_control' with pid 29445
+2014-04-15 19:03:29,985 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-15 19:03:57,496 INFO stopped: etl_control (exit status 0)
+2014-04-15 19:03:59,500 INFO spawned: 'etl_control' with pid 30720
+2014-04-15 19:04:00,614 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-15 19:05:42,663 INFO stopped: etl_control (exit status 0)
+2014-04-15 19:05:44,667 INFO spawned: 'etl_control' with pid 2541
+2014-04-15 19:05:45,781 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-15 19:11:04,014 INFO stopped: etl_control (exit status 0)
+2014-04-15 19:11:06,019 INFO spawned: 'etl_control' with pid 12025
+2014-04-15 19:11:07,131 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-15 19:11:50,015 INFO stopped: etl_control (exit status 0)
+2014-04-15 19:11:52,018 INFO spawned: 'etl_control' with pid 12850
+2014-04-15 19:11:53,132 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-15 19:15:36,504 INFO stopped: etl_control (exit status 0)
+2014-04-15 19:15:38,508 INFO spawned: 'etl_control' with pid 20063
+2014-04-15 19:15:39,623 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-15 19:33:54,057 INFO stopped: etl_control (exit status 0)
+2014-04-15 19:33:56,060 INFO spawned: 'etl_control' with pid 20906
+2014-04-15 19:33:57,173 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-15 19:34:42,215 INFO stopped: etl_control (exit status 0)
+2014-04-15 19:34:44,220 INFO spawned: 'etl_control' with pid 22117
+2014-04-15 19:34:45,333 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-16 11:22:28,594 INFO stopped: etl_control (exit status 0)
+2014-04-16 11:22:30,597 INFO spawned: 'etl_control' with pid 28698
+2014-04-16 11:22:31,711 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-16 11:23:49,548 INFO stopped: etl_control (exit status 0)
+2014-04-16 11:23:51,553 INFO spawned: 'etl_control' with pid 31179
+2014-04-16 11:23:52,666 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-16 11:25:13,145 INFO stopped: etl_control (exit status 0)
+2014-04-16 11:25:15,148 INFO spawned: 'etl_control' with pid 865
+2014-04-16 11:25:16,261 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-16 11:29:47,128 INFO stopped: etl_control (exit status 0)
+2014-04-16 11:29:49,131 INFO spawned: 'etl_control' with pid 11738
+2014-04-16 11:29:50,248 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-16 12:29:57,351 INFO stopped: etl_control (exit status 0)
+2014-04-16 12:29:59,354 INFO spawned: 'etl_control' with pid 14778
+2014-04-16 12:30:00,467 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-16 12:33:08,464 INFO stopped: etl_control (exit status 0)
+2014-04-16 12:33:10,468 INFO spawned: 'etl_control' with pid 24214
+2014-04-16 12:33:11,582 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-16 12:37:26,937 INFO stopped: etl_control (exit status 0)
+2014-04-16 12:37:28,940 INFO spawned: 'etl_control' with pid 32185
+2014-04-16 12:37:30,056 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-16 12:54:11,319 INFO stopped: etl_control (exit status 0)
+2014-04-16 12:54:13,321 INFO spawned: 'etl_control' with pid 26348
+2014-04-16 12:54:14,436 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-16 12:58:25,403 INFO stopped: etl_control (exit status 0)
+2014-04-16 12:58:27,407 INFO spawned: 'etl_control' with pid 824
+2014-04-16 12:58:28,518 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-16 13:07:10,278 INFO stopped: etl_control (exit status 0)
+2014-04-16 13:07:12,281 INFO spawned: 'etl_control' with pid 17104
+2014-04-16 13:07:13,395 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-16 18:02:34,167 INFO stopped: etl_control (exit status 0)
+2014-04-16 18:02:36,170 INFO spawned: 'etl_control' with pid 19405
+2014-04-16 18:02:37,285 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-16 18:41:54,659 INFO stopped: etl_control (exit status 0)
+2014-04-16 18:41:56,661 INFO spawned: 'etl_control' with pid 21350
+2014-04-16 18:41:57,780 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-16 18:45:33,815 INFO stopped: etl_control (exit status 0)
+2014-04-16 18:45:35,817 INFO spawned: 'etl_control' with pid 27274
+2014-04-16 18:45:36,942 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-17 10:28:04,855 INFO stopped: etl_control (exit status 0)
+2014-04-17 10:28:06,858 INFO spawned: 'etl_control' with pid 27716
+2014-04-17 10:28:07,975 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-17 10:28:47,865 INFO stopped: etl_control (exit status 0)
+2014-04-17 10:28:49,870 INFO spawned: 'etl_control' with pid 28484
+2014-04-17 10:28:50,983 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-17 18:40:56,490 INFO stopped: etl_control (exit status 0)
+2014-04-17 18:40:58,183 INFO spawned: 'etl_control' with pid 8346
+2014-04-17 18:40:59,296 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-17 18:42:22,162 INFO stopped: etl_control (exit status 0)
+2014-04-17 18:42:24,165 INFO spawned: 'etl_control' with pid 10987
+2014-04-17 18:42:25,282 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-18 14:38:03,997 INFO stopped: etl_control (exit status 0)
+2014-04-18 14:38:06,001 INFO spawned: 'etl_control' with pid 20792
+2014-04-18 14:38:07,115 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-18 16:15:58,658 INFO stopped: etl_control (exit status 0)
+2014-04-18 16:16:00,662 INFO spawned: 'etl_control' with pid 25472
+2014-04-18 16:16:01,776 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-18 16:25:25,588 INFO stopped: etl_control (exit status 0)
+2014-04-18 16:25:27,593 INFO spawned: 'etl_control' with pid 11798
+2014-04-18 16:25:28,705 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-18 18:21:24,986 INFO stopped: etl_control (exit status 0)
+2014-04-18 18:21:26,991 INFO spawned: 'etl_control' with pid 17113
+2014-04-18 18:21:28,106 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-18 18:24:40,007 INFO stopped: etl_control (exit status 0)
+2014-04-18 18:24:42,011 INFO spawned: 'etl_control' with pid 22820
+2014-04-18 18:24:43,125 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-18 18:32:30,482 INFO stopped: etl_control (exit status 0)
+2014-04-18 18:32:32,485 INFO spawned: 'etl_control' with pid 6491
+2014-04-18 18:32:33,597 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-18 18:52:53,710 INFO stopped: etl_control (exit status 0)
+2014-04-18 18:52:55,712 INFO spawned: 'etl_control' with pid 7206
+2014-04-18 18:52:56,826 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-18 18:58:49,966 INFO stopped: etl_control (exit status 0)
+2014-04-18 18:58:51,968 INFO spawned: 'etl_control' with pid 16010
+2014-04-18 18:58:53,084 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-20 11:55:38,002 INFO stopped: etl_control (exit status 0)
+2014-04-20 11:55:40,005 INFO spawned: 'etl_control' with pid 2691
+2014-04-20 11:55:41,119 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-20 11:59:18,642 INFO stopped: etl_control (exit status 0)
+2014-04-20 11:59:20,644 INFO spawned: 'etl_control' with pid 8362
+2014-04-20 11:59:21,759 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-20 12:07:58,863 INFO stopped: etl_control (exit status 0)
+2014-04-20 12:08:00,866 INFO spawned: 'etl_control' with pid 24039
+2014-04-20 12:08:01,981 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-20 12:40:37,603 INFO stopped: etl_control (exit status 0)
+2014-04-20 12:40:39,606 INFO spawned: 'etl_control' with pid 15842
+2014-04-20 12:40:40,717 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-20 15:44:31,824 INFO stopped: etl_control (exit status 0)
+2014-04-20 15:44:33,826 INFO spawned: 'etl_control' with pid 8323
+2014-04-20 15:44:34,938 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-20 15:45:16,147 INFO stopped: etl_control (exit status 0)
+2014-04-20 15:45:18,152 INFO spawned: 'etl_control' with pid 9718
+2014-04-20 15:45:19,266 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-20 15:56:32,294 INFO stopped: etl_control (exit status 0)
+2014-04-20 15:56:34,297 INFO spawned: 'etl_control' with pid 26696
+2014-04-20 15:56:35,410 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-20 15:59:54,638 INFO stopped: etl_control (exit status 0)
+2014-04-20 15:59:56,641 INFO spawned: 'etl_control' with pid 913
+2014-04-20 15:59:57,755 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-20 16:01:04,974 INFO stopped: etl_control (exit status 0)
+2014-04-20 16:01:06,979 INFO spawned: 'etl_control' with pid 2968
+2014-04-20 16:01:08,094 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-20 16:03:26,569 INFO stopped: etl_control (exit status 0)
+2014-04-20 16:03:28,572 INFO spawned: 'etl_control' with pid 7449
+2014-04-20 16:03:29,684 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-20 16:06:55,149 INFO stopped: etl_control (exit status 0)
+2014-04-20 16:06:57,152 INFO spawned: 'etl_control' with pid 13546
+2014-04-20 16:06:58,268 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-20 16:07:39,508 INFO stopped: etl_control (exit status 0)
+2014-04-20 16:07:41,510 INFO spawned: 'etl_control' with pid 15013
+2014-04-20 16:07:42,624 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-20 16:10:44,269 INFO stopped: etl_control (exit status 0)
+2014-04-20 16:10:46,271 INFO spawned: 'etl_control' with pid 19486
+2014-04-20 16:10:47,386 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-20 16:11:55,771 INFO stopped: etl_control (exit status 0)
+2014-04-20 16:11:57,773 INFO spawned: 'etl_control' with pid 22698
+2014-04-20 16:11:58,888 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-20 16:13:58,245 INFO stopped: etl_control (exit status 0)
+2014-04-20 16:14:00,249 INFO spawned: 'etl_control' with pid 26273
+2014-04-20 16:14:01,362 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-20 16:18:44,796 INFO stopped: etl_control (exit status 0)
+2014-04-20 16:18:46,801 INFO spawned: 'etl_control' with pid 8200
+2014-04-20 16:18:47,918 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-20 16:20:04,328 INFO stopped: etl_control (exit status 0)
+2014-04-20 16:20:06,332 INFO spawned: 'etl_control' with pid 10187
+2014-04-20 16:20:07,448 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-20 16:21:35,735 INFO stopped: etl_control (exit status 0)
+2014-04-20 16:21:37,740 INFO spawned: 'etl_control' with pid 12183
+2014-04-20 16:21:38,854 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-20 16:22:49,389 INFO stopped: etl_control (exit status 0)
+2014-04-20 16:22:51,391 INFO spawned: 'etl_control' with pid 14345
+2014-04-20 16:22:52,507 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-20 16:24:00,275 INFO stopped: etl_control (exit status 0)
+2014-04-20 16:24:02,278 INFO spawned: 'etl_control' with pid 16344
+2014-04-20 16:24:03,391 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-20 16:27:36,760 INFO stopped: etl_control (exit status 0)
+2014-04-20 16:27:38,764 INFO spawned: 'etl_control' with pid 22003
+2014-04-20 16:27:39,878 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-20 16:32:48,515 INFO stopped: etl_control (exit status 0)
+2014-04-20 16:32:50,520 INFO spawned: 'etl_control' with pid 30906
+2014-04-20 16:32:51,631 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-20 17:02:36,144 INFO stopped: etl_control (exit status 0)
+2014-04-20 17:02:38,148 INFO spawned: 'etl_control' with pid 13866
+2014-04-20 17:02:39,260 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-20 17:03:40,450 INFO stopped: etl_control (exit status 0)
+2014-04-20 17:03:42,454 INFO spawned: 'etl_control' with pid 15414
+2014-04-20 17:03:43,568 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-20 17:04:49,357 INFO stopped: etl_control (exit status 0)
+2014-04-20 17:04:51,361 INFO spawned: 'etl_control' with pid 17637
+2014-04-20 17:04:52,483 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-20 17:27:31,746 INFO stopped: etl_control (exit status 0)
+2014-04-20 17:27:33,749 INFO spawned: 'etl_control' with pid 27681
+2014-04-20 17:27:34,862 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-20 17:29:26,757 INFO stopped: etl_control (exit status 0)
+2014-04-20 17:29:28,761 INFO spawned: 'etl_control' with pid 30824
+2014-04-20 17:29:29,876 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-20 17:39:21,546 INFO stopped: etl_control (exit status 0)
+2014-04-20 17:39:23,550 INFO spawned: 'etl_control' with pid 14128
+2014-04-20 17:39:24,663 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-20 17:43:36,860 INFO stopped: etl_control (exit status 0)
+2014-04-20 17:43:38,864 INFO spawned: 'etl_control' with pid 20637
+2014-04-20 17:43:39,979 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-20 18:07:35,698 INFO stopped: etl_control (exit status 0)
+2014-04-20 18:07:37,700 INFO spawned: 'etl_control' with pid 28751
+2014-04-20 18:07:38,814 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-20 18:32:37,360 INFO stopped: etl_control (exit status 0)
+2014-04-20 18:32:39,365 INFO spawned: 'etl_control' with pid 10067
+2014-04-20 18:32:40,478 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-20 18:33:54,090 INFO stopped: etl_control (exit status 0)
+2014-04-20 18:33:56,093 INFO spawned: 'etl_control' with pid 11972
+2014-04-20 18:33:57,207 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-20 18:40:25,690 INFO stopped: etl_control (exit status 0)
+2014-04-20 18:40:27,693 INFO spawned: 'etl_control' with pid 21922
+2014-04-20 18:40:28,806 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-20 18:42:48,306 INFO stopped: etl_control (exit status 0)
+2014-04-20 18:42:50,308 INFO spawned: 'etl_control' with pid 25808
+2014-04-20 18:42:51,421 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-20 18:51:31,009 INFO stopped: etl_control (exit status 0)
+2014-04-20 18:51:33,013 INFO spawned: 'etl_control' with pid 7584
+2014-04-20 18:51:34,128 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-21 11:56:35,076 INFO stopped: etl_control (exit status 0)
+2014-04-21 11:56:37,079 INFO spawned: 'etl_control' with pid 17085
+2014-04-21 11:56:38,194 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-21 12:19:09,778 INFO stopped: etl_control (exit status 0)
+2014-04-21 12:19:11,783 INFO spawned: 'etl_control' with pid 23911
+2014-04-21 12:19:12,897 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-21 12:20:37,425 INFO stopped: etl_control (exit status 0)
+2014-04-21 12:20:39,430 INFO spawned: 'etl_control' with pid 25790
+2014-04-21 12:20:40,545 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-21 12:21:13,010 INFO stopped: etl_control (exit status 0)
+2014-04-21 12:21:15,015 INFO spawned: 'etl_control' with pid 27227
+2014-04-21 12:21:16,131 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-21 12:31:25,730 INFO stopped: etl_control (exit status 0)
+2014-04-21 12:31:27,734 INFO spawned: 'etl_control' with pid 11313
+2014-04-21 12:31:28,848 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-21 12:32:27,419 INFO stopped: etl_control (exit status 0)
+2014-04-21 12:32:29,423 INFO spawned: 'etl_control' with pid 12773
+2014-04-21 12:32:30,537 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-21 12:34:43,246 INFO stopped: etl_control (exit status 0)
+2014-04-21 12:34:45,248 INFO spawned: 'etl_control' with pid 15938
+2014-04-21 12:34:46,364 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-21 12:39:15,737 INFO stopped: etl_control (exit status 0)
+2014-04-21 12:39:17,740 INFO spawned: 'etl_control' with pid 23128
+2014-04-21 12:39:18,856 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-21 12:42:53,930 INFO stopped: etl_control (exit status 0)
+2014-04-21 12:42:55,933 INFO spawned: 'etl_control' with pid 28821
+2014-04-21 12:42:57,047 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-21 13:43:02,451 INFO stopped: etl_control (exit status 0)
+2014-04-21 13:43:04,453 INFO spawned: 'etl_control' with pid 2572
+2014-04-21 13:43:05,569 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-21 15:10:04,266 INFO stopped: etl_control (exit status 0)
+2014-04-21 15:10:06,269 INFO spawned: 'etl_control' with pid 22898
+2014-04-21 15:10:07,381 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-21 15:18:18,857 INFO stopped: etl_control (exit status 0)
+2014-04-21 15:18:20,865 INFO spawned: 'etl_control' with pid 5469
+2014-04-21 15:18:21,976 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-21 15:19:04,935 INFO stopped: etl_control (exit status 0)
+2014-04-21 15:19:06,939 INFO spawned: 'etl_control' with pid 6511
+2014-04-21 15:19:08,055 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-21 16:54:44,883 INFO stopped: etl_control (exit status 0)
+2014-04-21 16:54:46,887 INFO spawned: 'etl_control' with pid 12280
+2014-04-21 16:54:48,002 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-21 16:58:26,104 INFO stopped: etl_control (exit status 0)
+2014-04-21 16:58:28,108 INFO spawned: 'etl_control' with pid 17869
+2014-04-21 16:58:29,219 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-21 17:27:58,319 INFO stopped: etl_control (exit status 0)
+2014-04-21 17:28:00,324 INFO spawned: 'etl_control' with pid 8175
+2014-04-21 17:28:01,436 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-21 17:30:21,449 INFO stopped: etl_control (exit status 0)
+2014-04-21 17:30:23,451 INFO spawned: 'etl_control' with pid 11441
+2014-04-21 17:30:24,565 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-21 17:32:36,822 INFO stopped: etl_control (exit status 0)
+2014-04-21 17:32:38,826 INFO spawned: 'etl_control' with pid 15329
+2014-04-21 17:32:39,941 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-21 17:38:17,446 INFO stopped: etl_control (exit status 0)
+2014-04-21 17:38:19,451 INFO spawned: 'etl_control' with pid 24793
+2014-04-21 17:38:20,562 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-21 17:47:35,535 INFO stopped: etl_control (exit status 0)
+2014-04-21 17:47:37,539 INFO spawned: 'etl_control' with pid 7443
+2014-04-21 17:47:38,653 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-21 17:48:24,511 INFO stopped: etl_control (exit status 0)
+2014-04-21 17:48:26,515 INFO spawned: 'etl_control' with pid 8388
+2014-04-21 17:48:27,631 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-21 17:50:38,949 INFO stopped: etl_control (exit status 0)
+2014-04-21 17:50:40,953 INFO spawned: 'etl_control' with pid 13108
+2014-04-21 17:50:42,069 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-24 17:06:54,851 INFO stopped: etl_control (exit status 0)
+2014-04-24 17:06:56,855 INFO spawned: 'etl_control' with pid 5434
+2014-04-24 17:06:57,968 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-24 17:07:48,369 INFO stopped: etl_control (exit status 0)
+2014-04-24 17:07:50,372 INFO spawned: 'etl_control' with pid 6803
+2014-04-24 17:07:51,486 INFO success: etl_control entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
